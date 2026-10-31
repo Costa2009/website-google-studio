@@ -1,0 +1,15 @@
+# QC Marketing Agency
+
+QC Marketing Agency is a high-performance digital growth studio specializing in brand scaling and custom web development.
+
+## Core Services
+- Brand Scaling & Growth: Data-driven scaling strategies and performance marketing.
+- Web Development: Custom, high-performance websites built with modern technologies like Next.js and React.
+
+## Expertise
+- Strategic Precision: Data-backed campaign analysis.
+- Custom Engineering: Tailored web solutions.
+- Accessible Luxury: High-end results at affordable prices.
+
+## Contact
+Business partners can reach out through the website to scale their brands.

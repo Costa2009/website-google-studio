@@ -1,0 +1,30 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --color-midnight: #020617;
+  --color-charcoal: #0f172a;
+  --color-emerald-accent: #10b981;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-midnight);
+  color: #fff;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: var(--color-emerald-accent);
+  color: #fff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Ensure headings and sections have correct scroll margins for the sticky header */
+section {
+  scroll-margin-top: 100px;
+}
